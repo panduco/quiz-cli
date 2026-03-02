@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Madrid"],
+        "answer": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": 1
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "options": ["Charles Dickens", "J.K. Rowling", "William Shakespeare", "Mark Twain"],
+        "answer": 2
+    }
+]
